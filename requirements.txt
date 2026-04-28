@@ -1,0 +1,41 @@
+# MacBuddy Python dependencies.
+#
+# Each service has its own minimal requirements; this is the union for
+# convenience. Install in a single venv or split per service.
+
+# ===== Web framework =====
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+httpx>=0.27.0
+python-dotenv>=1.0.0
+python-multipart>=0.0.9
+
+# ===== AI / LLM =====
+anthropic>=0.39.0
+groq>=0.13.0
+google-generativeai>=0.8.0
+
+# ===== Voice =====
+elevenlabs>=1.0.0
+sounddevice>=0.5.0
+numpy>=1.26.0
+
+# ===== Google Workspace =====
+google-auth>=2.35.0
+google-auth-oauthlib>=1.2.0
+google-api-python-client>=2.150.0
+
+# ===== Mac control =====
+pyautogui>=0.9.54
+pyobjc>=10.0; sys_platform == 'darwin'
+
+# ===== Database / storage =====
+pymongo>=4.10.0
+
+# ===== Fetch.ai Agentverse =====
+uagents>=0.20.0
+uagents-core>=0.4.0
+
+# ===== Utilities =====
+pillow>=11.0.0
+requests>=2.32.0
