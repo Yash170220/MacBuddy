@@ -115,6 +115,5 @@ For evaluation access (judges, recruiters, etc.), please reach out through the c
 
 ## Acknowledgments
 
-Inspired by [FaceTimeOS](https://github.com/ThePickleGawd/FaceTimeOS) (Cal Hacks 2024 grand prize). MacBuddy extends the concept with structured service integrations, multi-channel input, and Agentverse discoverability.
 
 Built at LA Hacks 2026.
