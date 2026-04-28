@@ -13,12 +13,3 @@ The full demo video is hosted on YouTube:
 - **Architecture beat** — quick stack overview
 - **Agentverse / ASI:One** — agent ecosystem reach
 
-## Demo screenshots
-
-Add screenshot images to this folder and reference them in the main README.
-
-Suggested files:
-- `ui-screenshot.png` — Tauri dashboard with active task
-- `architecture.png` — system diagram
-- `agentverse-listing.png` — the registered agent on Agentverse marketplace
-- `imessage-flow.png` — iMessage thread showing command + reply
